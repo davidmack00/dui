@@ -7,12 +7,12 @@
 
 <p><pre>
 TRIGGER DUI ATTRIBUTES:
-dui-toggle:	  toggles a target(s) (parent element if no target is specified)
-dui-enable:	  enables a target(s) (parent element if no target is specified)
-dui-disable:	disasbles a target(s) (parent element if no target is specified)
+dui-toggle:	    toggles a target(s) (parent element if no target is specified)
+dui-enable:	    enables a target(s) (parent element if no target is specified)
+dui-disable:    disasbles a target(s) (parent element if no target is specified)
 
 TARGET DUI ATTRIBUTES:
-dui-id:		  names a target
-dui-pin:	  keeps a target active unlesss explicitly disabled
-dui-quiet:	makes a target close on the next click (even if it is clicked on)
+dui-id:         names a target
+dui-pin:        keeps a target active unlesss explicitly disabled
+dui-quiet:      makes a target close on the next click (even if it is clicked on)
 </pre></p>
