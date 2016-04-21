@@ -2,6 +2,8 @@
 
 <p>Direct UI is designed to provide a basic yet powerful interactive layer for web pages without writing a single line of JavaScript.</p>
 
+<h3>".dui-active" is the name of the game</h3>
+
 <p>To use it, simply add dui attributes to elements. These attributes will invoke the addition or removal of the class name "dui-active" to a target element. In Direct UI, there are two types of elements, triggers (ones that start an action) and targets (ones that recieve an action). Both have serveral attribute options to chose from</p>
 
 
