@@ -6,9 +6,6 @@
 
 <p>To use it, simply add dui attributes to elements. These attributes will invoke the addition or removal of the class name "dui-active" to a target element. In Direct UI, there are two types of elements, triggers (ones that start an action) and targets (ones that recieve an action). Both have serveral attribute options to chose from. Clicking on the page will automatically remove the dui-active class from all elements except what you clicked (and its ancestors), the target of your click (and its ancestors), and any pinned elements.</p>
 
-<p>the Direct UI library requires jQuery</p>
-
-
 <p><pre>
 TRIGGER DUI ATTRIBUTES:
 dui-toggle:	    toggles a target(s) (parent element if no target is specified)
@@ -20,3 +17,5 @@ dui-id:         names a target
 dui-pin:        keeps a target active unlesss explicitly disabled
 dui-quiet:      makes a target close on the next click (even if it is clicked on)
 </pre></p>
+
+<p>the Direct UI library requires jQuery</p>
