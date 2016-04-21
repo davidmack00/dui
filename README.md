@@ -1,10 +1,10 @@
 # Direct UI - Effortless interaction without JS
 
-<p>Direct UI is designed to provide a basic yet powerful interactive layer for web pages without writing a single line of JavaScript.</p>
+<p>Direct UI is designed to provide a basic yet open-ended interactive layer for web pages without writing a single line of JavaScript. By providing a seamless way to add and remove a class name, you can create intracate widgets and pages with only html and css</p>
 
-<h3>".dui-active" is the name of the game</h3>
+<h3>class="dui-active" is the name of the game</h3>
 
-<p>To use it, simply add dui attributes to elements. These attributes will invoke the addition or removal of the class name "dui-active" to a target element. In Direct UI, there are two types of elements, triggers (ones that start an action) and targets (ones that recieve an action). Both have serveral attribute options to chose from</p>
+<p>To use it, simply add dui attributes to elements. These attributes will invoke the addition or removal of the class name "dui-active" to a target element. In Direct UI, there are two types of elements, triggers (ones that start an action) and targets (ones that recieve an action). Both have serveral attribute options to chose from.</p>
 
 
 <p><pre>
