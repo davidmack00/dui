@@ -1,4 +1,4 @@
-# Direct UI - Effortless interaction without JS
+# Direct UI - Effortless interaction for designers (no JavaScript)
 
 <p>Direct UI is designed to provide a basic yet open-ended interactive layer for web pages without writing a single line of JavaScript. By providing a seamless way to add and remove a class name, you can create intracate widgets and pages with only html and css.</p>
 
